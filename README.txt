@@ -1,3 +1,10 @@
+contributors:
+Kohn Henry Liam - A0269048U
+Li Matthew - A0267853N
+Muhammad Hud B Ayub - A0199727H
+Rayden Teo Wei Xuan - A0268219W
+
+
 MoneyKakis is a bill-spliting app that makes it easy for your and your friends to track shared expenses. To get
 started, head to the "manage groups" tab and join an existing group or create a new one — you'll need to know
 your group's passcode, or you'll need to create one, depending on whether you're joining or creating a group.
@@ -11,3 +18,4 @@ addition of the new expense. To leave a group of which you are a member, navigat
 scroll to the bottom of the page to find the "leave group" button. You will need to enter the ID of the group you
 wish to leave. Note that in order to leave a group, that group must have no outstanding expense — once an expense
 has been settled, use the "settle up" button to delete that expense from your group.
+
